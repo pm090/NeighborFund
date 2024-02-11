@@ -9,7 +9,9 @@ NeighborFund creates a shared Capital One account for each community that collec
 
 ## Tools Utilized
 react.js
+
 Capital One API
+
 MongoDB
 
 ## Problems I ran into
