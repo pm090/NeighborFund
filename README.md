@@ -9,3 +9,11 @@ NeighborFund creates a shared Capital One account for each community that collec
 
 ## Tools Utilized
 react.js
+Capital One API
+MongoDB
+
+## Problems I ran into
+Setting up a working website was difficult, because I don't have much experience in react. I was able to overcome this by going through the documentation and various tutorials. I also had to cut down on the orginal functionalities of the app due to the time constraint. I hope to add more features in the future. 
+
+## APIs Used
+Capital One API
